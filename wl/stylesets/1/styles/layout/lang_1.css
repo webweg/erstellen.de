@@ -1,0 +1,118 @@
+/*** LANGID 1 - GERMAN ***/
+
+/* HOME */
+ul#mainnavi li.home img, ul#mainnavi li.bw_home a   {
+	height				:	57px;
+	width				:	64px;
+}
+ul#mainnavi li.bw_home a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_home.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_home a:hover {
+	background-image	:	url('../../images/layout/1/btn_home_hover.html');
+}
+ul#mainnavi li.bw_home a.active, ul#mainnavi li.bw_home a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_home_active.html');
+}
+/* MEMBERS */
+ul#mainnavi li.bw_members img, ul#mainnavi li.bw_members a  {
+	height				:	57px;
+	width				:	142px;
+}
+ul#mainnavi li.bw_members a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_members.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_members a:hover {
+	background-image	:	url('../../images/layout/1/btn_members_hover.html');
+}
+ul#mainnavi li.bw_members a.active, ul#mainnavi li.bw_members a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_members_active.html');
+}
+
+/* PRICING */
+ul#mainnavi li.bw_pricing img, ul#mainnavi li.bw_pricing a  {
+	height				:	57px;
+	width				:	73px;
+}			
+ul#mainnavi li.bw_pricing a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_pricing.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_pricing a:hover {
+	background-image	:	url('../../images/layout/1/btn_pricing_hover.html');
+}
+ul#mainnavi li.bw_pricing a.active, ul#mainnavi li.bw_pricing a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_pricing_active.html');
+}	
+
+/* FORUM */
+ul#mainnavi li.bw_forum img, ul#mainnavi li.bw_forum a  {
+	height				:	57px;
+	width				:	68px;
+}			
+ul#mainnavi li.bw_forum a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_forum.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_forum a:hover {
+	background-image	:	url('../../images/layout/1/btn_forum_hover.html');
+}
+ul#mainnavi li.bw_forum a.active, ul#mainnavi li.bw_forum a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_forum_active.html');
+}
+/* CHAT */
+ul#mainnavi li.bw_chat img, ul#mainnavi li.bw_chat a  {
+	height				:	57px;
+	width				:	57px;
+}			
+ul#mainnavi li.bw_chat a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_chat.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_chat a:hover {
+	background-image	:	url('../../images/layout/1/btn_chat_hover.html');
+}
+ul#mainnavi li.bw_chat a.active, ul#mainnavi li.bw_chat a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_chat_active.html');
+}
+/* HELP */
+ul#mainnavi li.bw_help img, ul#mainnavi li.bw_help a  {
+	height				:	57px;
+	width				:	57px;
+}			
+ul#mainnavi li.bw_help a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_help.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_help a:hover {
+	background-image	:	url('../../images/layout/1/btn_help_hover.html');
+}
+ul#mainnavi li.bw_help a.active, ul#mainnavi li.bw_help a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_help_active.html');
+}	
+
+/* ------------------------------------------------------------------------------- DEVELOPERS */
+/* SIGNUP */
+ul#mainnavi li.bw_developers img, ul#mainnavi li.bw_developers a  {
+	height				:	57px;
+	width				:	142px;
+}
+ul#mainnavi li.bw_developers a {
+	display				:	block;
+	background-image	:	url('../../images/layout/1/btn_developers.html');
+	background-repeat	:	no-repeat;
+}
+ul#mainnavi li.bw_developers a:hover {
+	background-image	:	url('../../images/layout/1/btn_developers_hover.html');
+}
+ul#mainnavi li.bw_developers a.active, ul#mainnavi li.bw_developers a.active:hover {
+	background-image	:	url('../../images/layout/1/btn_developers_active.html');
+}
